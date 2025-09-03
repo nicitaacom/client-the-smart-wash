@@ -1,11 +1,11 @@
 // 1. Core business data used across the app (contact, hours, location, rating)
 export const businessInfo = {
-  name: "Kai's Enhancements",
+  name: "The samart wash",
   yearsInBusiness: 1, // numeric for easy usage in UI
   yearsOfGuarantee: 1, // satisfaction guarantee in years
-  phone: "+44 7765 441559",
-  email: "14enhancements@gmail.com",
-  websiteUrl: "https://kais-autodetailing.com",
+  phone: "+44 738 792 73 07",
+  email: "info@thesmartwashltd.com",
+  websiteUrl: "https://the-smart-wash.com",
   yellPagesUrl: "",
   logoUrl: "https://i.imgur.com/1HY8d2x.jpeg",
   cta: "get free quote",
